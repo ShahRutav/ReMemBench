@@ -2,9 +2,9 @@
 <!-- ![alt text](https://github.com/UT-Austin-RPL/maple/blob/web/src/overview.png) -->
 <img src="docs/images/remembench-banner.png" width="100%" />
 
-This is the official codebase of [ReMemBench](https://TODO.ai), built upon [RoboCasa](https://robocasa.ai/), a benchmark for training and evaluating visuomotor policies with short-term memory. This guide contains information about installation and setup.
+This is the official codebase of [ReMemBench](https://shahrutav.github.io/short-term-memory/), built upon [RoboCasa](https://robocasa.ai/), a benchmark for training and evaluating visuomotor policies with short-term memory. This guide contains information about installation and setup.
 
-[**[Home page]**](https://TODO.ai) &ensp; [**[Paper]**](https://TODO.ai)
+[**[Home page]**](https://shahrutav.github.io/short-term-memory/) &ensp; [**[Paper]**](https://shahrutav.github.io/short-term-memory/)
 -------
 
 ### Task Categories
