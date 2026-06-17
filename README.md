@@ -186,5 +186,14 @@ To push to Hugging Face Hub, add `--push_to_hub`. See `--help` for all options.
 -------
 ## Citation
 ```bibtex
-TODO: Add arXiv citation
+@misc{
+   shah2026scalingshorttermmemoryvisuomotor,
+   title={Scaling Short-Term Memory of Visuomotor Policies for Long-Horizon Tasks}, 
+   author={Rutav Shah and Rajat Kumar Jenamani and Xiaohan Zhang and Lingfeng Sun and Roberto Martín-Martín and Yuke Zhu and Deva Ramanan and Karl Schmeckpeper},
+   year={2026},
+   eprint={2606.16178},
+   archivePrefix={arXiv},
+   primaryClass={cs.RO},
+   url={https://arxiv.org/abs/2606.16178}, 
+}
 ```
